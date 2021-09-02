@@ -1,0 +1,22 @@
+.resize {
+    max-width: 75px;
+    height: auto;
+    margin-right: auto;
+}
+
+nav {
+    display: flex;
+    flex-wrap: nowrap;
+    background-color: #646ae0;
+    justify-content: flex-end;
+    margin: -0.5%;
+    padding: 1%;
+}
+
+p {
+    font-size: 1.5em;
+    font-family: Helvetica;
+    color: #E3DE4B;
+    margin-bottom: 0%;
+    margin-left: 1%;
+}
