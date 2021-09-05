@@ -15,6 +15,7 @@ nav {
     justify-content: flex-end;
     margin: 0px;
     padding: 1%;
+    align-items: center;
 }
 
 p {
